@@ -6,7 +6,7 @@ main:
   - title: "Books"
     url: /books/    
     
-  - title: "Writings \& Drafts"
+  - title: "Writings & Drafts"
     url: /writings/   
 
   - title: "Projects"
